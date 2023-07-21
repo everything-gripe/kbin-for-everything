@@ -2,4 +2,5 @@
 
 export default class KbinService extends LemmyService {
     defaultInstance = 'kbin.social'
+    serviceDomain = 'kbin.z.gripe'
 }

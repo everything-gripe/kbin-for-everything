@@ -1,6 +1,6 @@
 {
   "name": "kbin-for-everything",
-  "version": "0.0.15",
+  "version": "0.0.20",
   "description": "Connect with Kbin seamlessly through the Everything middleware. Simplify integration and streamline API access with Kbin for Everything.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -19,6 +19,6 @@
     "lib"
   ],
   "dependencies": {
-    "lemmy-for-everything": "^0.0.32"
+    "lemmy-for-everything": "^0.0.52"
   }
 }
